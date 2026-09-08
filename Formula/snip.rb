@@ -4,7 +4,7 @@ class Snip < Formula
   desc "macOS clipboard and keyboard diagnostic tool"
   homepage "https://github.com/clanzhang/snip"
   url "https://github.com/clanzhang/snip/archive/refs/tags/v0.1.21.tar.gz"
-  sha256 "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  sha256 "3844b54f5141644c3abeeac85a6253d7fc76535c6ff6de56ff40abfe09e23f53"
   license "MIT"
 
   depends_on :macos
